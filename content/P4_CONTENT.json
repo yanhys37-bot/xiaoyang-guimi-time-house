@@ -1,0 +1,23 @@
+{
+  "fortune": {
+    "headline": "团子今日运势",
+    "start_button": "抽一签",
+    "redraw_button": "再抽一签",
+    "back_button": "返回主页",
+    "empty_state": "今日运势，交给团子决定！",
+    "fun_disclaimer": "娱乐抽签，仅供开心。",
+    "fortune_file": "./content/P4_FORTUNE_CONTENT.json",
+    "chance": "first draw uniform among 10, next among remaining 9 to avoid immediate repeat"
+  },
+  "placeholders": {
+    "time_capsule": {
+      "heading": "时间胶囊",
+      "body": "时间胶囊正在施工中，挖到回忆就通知你！"
+    },
+    "emergency": {
+      "heading": "应急按钮",
+      "body": "应急通道正在抢修中，小杨施工队已经到达现场！"
+    }
+  },
+  "back_button": "返回主页"
+}

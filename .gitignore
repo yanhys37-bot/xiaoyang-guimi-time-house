@@ -1,0 +1,4 @@
+# Local source pack and visual QA outputs are not needed by GitHub Pages.
+/source_originals/
+/references/
+/preview/

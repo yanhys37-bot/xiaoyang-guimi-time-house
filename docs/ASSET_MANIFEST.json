@@ -1,0 +1,155 @@
+{
+  "project": "小杨 × 诡秘 · 相识时间记录站",
+  "version": "1.0",
+  "asset_count": 13,
+  "assets": [
+    {
+      "id": "P1_BG_01",
+      "path": "./assets/p1/P1_BG_01.webp",
+      "description": "P1奶油像素小屋底图，原效果图拆分后的无文字背景；941x1672",
+      "width": 941,
+      "height": 1672,
+      "format": "WEBP",
+      "alpha": false,
+      "bytes": 94180,
+      "sha256": "510881c879dc32f0c99a3b0a7f8f739da0487aa67973d1b57b91afffea1d495b"
+    },
+    {
+      "id": "P1_CAT_01",
+      "path": "./assets/p1/P1_CAT_01.png",
+      "description": "P1门顶看守团子猫，透明PNG，可点击",
+      "width": 405,
+      "height": 248,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 161413,
+      "sha256": "649baec8673f2eb0e362a19f413f098e28eac58fb17c0f9cbca0251f21f6dd90"
+    },
+    {
+      "id": "P1_DOOR_01",
+      "path": "./assets/p1/P1_DOOR_01.png",
+      "description": "P1原图提取木门，透明PNG，动效由CSS完成",
+      "width": 351,
+      "height": 413,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 203828,
+      "sha256": "34798a1a6f6fda31bd67785824d458500b2a8f54bfb3f60775525f08f5a2fb17"
+    },
+    {
+      "id": "P2_CH_F01",
+      "path": "./assets/p2/P2_CH_F01.png",
+      "description": "P2读书初始帧（原上传1000095819.png）",
+      "width": 768,
+      "height": 768,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 625572,
+      "sha256": "ec702d6751b8a909c057cec6002a4d530478bd78affdabf1ffc4b831c2dbbb85"
+    },
+    {
+      "id": "P2_CH_F02",
+      "path": "./assets/p2/P2_CH_F02.png",
+      "description": "P2猫眨眼帧（原上传1000095820.png）",
+      "width": 768,
+      "height": 768,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 621903,
+      "sha256": "228e4a70a712d5295f20556872d04d0f7a91348c0f86b8709e0787f14937e4bf"
+    },
+    {
+      "id": "P2_CH_F03",
+      "path": "./assets/p2/P2_CH_F03.png",
+      "description": "P2开心惊喜帧（原上传1000095822.png）",
+      "width": 768,
+      "height": 768,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 640260,
+      "sha256": "9b4d9258517465d08f31bfc4291bfbc4cb622241debfd3acce21ad7c0fb583a0"
+    },
+    {
+      "id": "P2_CH_F04",
+      "path": "./assets/p2/P2_CH_F04.png",
+      "description": "P2眯眼微笑帧（原上传1000095821.png）",
+      "width": 768,
+      "height": 768,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 613286,
+      "sha256": "785259b4c0bcb0212b2dd19280296ded4ebb0c2c05ff5a18c83855bb65edb09b"
+    },
+    {
+      "id": "P3_BG_01",
+      "path": "./assets/p3/P3_BG_01.webp",
+      "description": "P3奶油色猫系室内背景，留白作计时器与人物排布",
+      "width": 941,
+      "height": 1672,
+      "format": "WEBP",
+      "alpha": false,
+      "bytes": 173138,
+      "sha256": "21eaa4257ec7e0215c517a8bf85c27d91dee397448784882bce1e002d9f67d8a"
+    },
+    {
+      "id": "P3_CAT_01",
+      "path": "./assets/p3/P3_CAT_01.png",
+      "description": "P3中间独立团子猫，透明PNG",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 548127,
+      "sha256": "1b6224a8b9bc2026f05843def38b7ea31c6f07bcfc7ed87055ccf7035412ab61"
+    },
+    {
+      "id": "P3_CH_01",
+      "path": "./assets/p3/P3_CH_01.png",
+      "description": "P3左侧小杨，朝右坐姿，无团子，透明PNG",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 1196873,
+      "sha256": "d6460c042af7dcb6769d90121f35f194bb240c0b54dd573f2c1c3e25c3794061"
+    },
+    {
+      "id": "P3_CH_02",
+      "path": "./assets/p3/P3_CH_02.png",
+      "description": "P3右侧诡秘，朝左坐姿，透明PNG",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 1382643,
+      "sha256": "b0ed75828d9ab77c0075efc2c3ad566302b6340b10f61e1a3ca6cd8bbfc85420"
+    },
+    {
+      "id": "P4_DEV_01",
+      "path": "./assets/p4/P4_DEV_01.png",
+      "description": "P4两开发中页面共用黄色施工帽小杨 + 团子透明PNG",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 1922045,
+      "sha256": "17a9a84006dfbec12c3be5da4fbd8ea7ac500cd327ff0a1173bba0ee498be9ac"
+    },
+    {
+      "id": "P4_FORTUNE_MACHINE_01",
+      "path": "./assets/p4/P4_FORTUNE_MACHINE_01.png",
+      "description": "P4透明猫咪星光抽签机，整体可轻摇",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "alpha": true,
+      "bytes": 1207974,
+      "sha256": "2871a3f3d8a73208d876c0bf271957813b819259761cda5d7111edde1ad8bce1"
+    }
+  ],
+  "references": {
+    "P1_APPROVED_VISUAL_01.png": "P1 only; appearance reference, not runtime asset",
+    "P1_LAYER_ALIGNMENT_01.jpg": "P1 screenshot of real separated composite; has seam to fix",
+    "P3_LAYOUT_ONLY_USER_SKETCH.jpg": "P3 layout-level reference only, not a background"
+  }
+}

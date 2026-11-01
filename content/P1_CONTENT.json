@@ -1,0 +1,25 @@
+{
+  "page": "p1_password",
+  "headline": "小杨 × 诡秘",
+  "subtitle": "时间小屋入口",
+  "small_english": "TIME RECORD",
+  "input_label": "请输入六位暗号",
+  "input_placeholder": "请输入六位暗号",
+  "action_label": "开门啦！",
+  "footer": "嘘，这是一个藏着时间的小地方。",
+  "empty_error": "还没输入暗号呢，喵～",
+  "short_error_template": "咦？暗号还差{remaining}位哦。",
+  "wrong_by_attempt": [
+    "喵？这串暗号好像不太对哦。",
+    "团子歪了歪脑袋：再想想嘛～",
+    "团子表示：不对不对，再试一次！"
+  ],
+  "right_reply": "暗号正确！团子来开门啦！",
+  "cat_click_lines": [
+    "喵～",
+    "我是看门猫！",
+    "不许偷偷溜进去哦～"
+  ],
+  "wrong_policy": "no lockout; do not clear user input automatically",
+  "security_note": "only a visual gate, not authentication"
+}

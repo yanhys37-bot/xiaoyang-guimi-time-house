@@ -1,0 +1,32 @@
+{
+  "headline": "小杨 × 诡秘 · 时间小屋",
+  "duration_ms": 2400,
+  "frame_ms": 300,
+  "frames": [
+    "./assets/p2/P2_CH_F01.png",
+    "./assets/p2/P2_CH_F02.png",
+    "./assets/p2/P2_CH_F03.png",
+    "./assets/p2/P2_CH_F04.png"
+  ],
+  "frame_order_original_names": [
+    "1000095819.png",
+    "1000095820.png",
+    "1000095822.png",
+    "1000095821.png"
+  ],
+  "messages": [
+    {
+      "start_ms": 0,
+      "text": "正在打开时间小屋……"
+    },
+    {
+      "start_ms": 800,
+      "text": "正在翻找我们的相识记录……"
+    },
+    {
+      "start_ms": 1600,
+      "text": "找到啦，准备进入！"
+    }
+  ],
+  "next_view": "p3_home"
+}

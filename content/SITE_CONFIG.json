@@ -1,0 +1,21 @@
+{
+  "project": "小杨 × 诡秘 · 相识时间记录站",
+  "page_title": "小杨 × 诡秘｜我们的时间小屋",
+  "frontend_only": true,
+  "password": "261009",
+  "relationship_start_iso": "2026-10-09T08:15:00+08:00",
+  "timezone_label": "北京时间",
+  "views": [
+    "p1_password",
+    "p2_loading",
+    "p3_home",
+    "p4_fortune",
+    "p4_capsule_placeholder",
+    "p4_emergency_placeholder"
+  ],
+  "initial_view": "p1_password",
+  "asset_base": "./assets/",
+  "target_deployment": "https://<GitHub用户名>.github.io/<仓库名>/",
+  "design_priority": "9:16 mobile; pixel-kawaii game UI, warm cream + gold + wood, main timer always dominant",
+  "privacy_note": "Static front-end passcode is not security; all assets and password can be seen in public repository."
+}

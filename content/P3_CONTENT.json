@@ -1,0 +1,49 @@
+{
+  "headline": "小杨 × 诡秘",
+  "subtitle": "我们的相识记录",
+  "timer_heading": "我们已经认识了",
+  "start_iso": "2026-10-09T08:15:00+08:00",
+  "start_label": "开始记录：2026.10.09 08:15（北京时间）",
+  "timer_parts": [
+    "天",
+    "小时",
+    "分钟",
+    "秒"
+  ],
+  "characters": {
+    "left": "P3_CH_01",
+    "center": "P3_CAT_01",
+    "right": "P3_CH_02"
+  },
+  "dialogue": {
+    "xiaoyang": [
+      "诡秘想你了，比昨天多一点，比明天少一点。",
+      "诡秘诡秘在一起的时间又多加了一秒。",
+      "诡秘如果想我了可以来给我发个消息！",
+      "诡秘喵喵喵"
+    ],
+    "tuanzi": [
+      "喵喵喵",
+      "喵喵?喵喵喵！",
+      "喵呜～"
+    ]
+  },
+  "buttons": [
+    {
+      "label": "今日运势",
+      "target": "p4_fortune",
+      "symbol": "star"
+    },
+    {
+      "label": "时间胶囊",
+      "target": "p4_capsule_placeholder",
+      "symbol": "hourglass"
+    },
+    {
+      "label": "应急按钮",
+      "target": "p4_emergency_placeholder",
+      "symbol": "heart"
+    }
+  ],
+  "interaction_note": "Only Xiaoyang and Tuanzi require tap dialogue; do not invent dialogue for Guimi; illustration speech-heart decorations are baked in, real words go in new DOM bubbles."
+}
