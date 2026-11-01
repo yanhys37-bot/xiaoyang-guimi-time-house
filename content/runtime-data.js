@@ -1,8 +1,8 @@
 /* Generated from content/*.json by tools/build_runtime_data.cjs. */
 window.TimeHouseData = {
   "SITE_CONFIG": {
-    "project": "小杨 × 诡秘 · 相识时间记录站",
-    "page_title": "小杨 × 诡秘｜我们的时间小屋",
+    "project": "小杨 × 天爱 · 相识时间记录站",
+    "page_title": "小杨 × 天爱｜我们的时间小屋",
     "frontend_only": true,
     "password": "261009",
     "relationship_start_iso": "2026-10-09T08:15:00+08:00",
@@ -23,7 +23,7 @@ window.TimeHouseData = {
   },
   "P1_CONTENT": {
     "page": "p1_password",
-    "headline": "小杨 × 诡秘",
+    "headline": "小杨 × 天爱",
     "subtitle": "时间小屋入口",
     "small_english": "TIME RECORD",
     "input_label": "请输入六位暗号",
@@ -47,7 +47,7 @@ window.TimeHouseData = {
     "security_note": "only a visual gate, not authentication"
   },
   "P2_CONTENT": {
-    "headline": "小杨 × 诡秘 · 时间小屋",
+    "headline": "小杨 × 天爱 · 时间小屋",
     "duration_ms": 2400,
     "frame_ms": 300,
     "frames": [
@@ -79,7 +79,7 @@ window.TimeHouseData = {
     "next_view": "p3_home"
   },
   "P3_CONTENT": {
-    "headline": "小杨 × 诡秘",
+    "headline": "小杨 × 天爱",
     "subtitle": "我们的相识记录",
     "timer_heading": "我们已经认识了",
     "start_iso": "2026-10-09T08:15:00+08:00",
@@ -125,7 +125,7 @@ window.TimeHouseData = {
         "symbol": "heart"
       }
     ],
-    "interaction_note": "Only Xiaoyang and Tuanzi require tap dialogue; do not invent dialogue for Guimi; illustration speech-heart decorations are baked in, real words go in new DOM bubbles."
+    "interaction_note": "Only Xiaoyang and Tuanzi require tap dialogue; do not invent dialogue for Tianai; illustration speech-heart decorations are baked in, real words go in new DOM bubbles."
   },
   "P4_CONTENT": {
     "fortune": {
