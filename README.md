@@ -1,6 +1,8 @@
 # 小杨 × 诡秘｜我们的时间小屋
 
-这是可直接打开、可放到 GitHub Pages 仓库根目录的静态网站。当前仅完成本地制作与验证，**尚未部署**。
+这是可直接打开的静态网站，已部署到 GitHub Pages：
+
+**https://yanhys37-bot.github.io/xiaoyang-guimi-time-house/**
 
 ## 打开网站
 
@@ -33,8 +35,8 @@ node tests/browser-smoke.cjs
 
 浏览器脚本默认需要本地 `http://127.0.0.1:4174/` 静态服务；也可通过 `TIME_HOUSE_URL` 指向其他地址。已另行用 `file://` 方式跑过完整浏览器流程，确认双击打开可用。
 
-## 以后部署到 GitHub Pages
+## GitHub Pages 更新方式
 
-将此目录内容放在 GitHub 仓库**根目录**并推送到默认分支。到仓库的 `Settings → Pages`，选择 `Deploy from a branch`，分支选 `main`、目录选 `/(root)`。部署成功后地址形如 `https://用户名.github.io/仓库名/`。上线后再用手机实际访问检查图片、键盘和交互。详细步骤见 `docs/DEPLOY_GITHUB_PAGES.md`。
+仓库为 `yanhys37-bot/xiaoyang-guimi-time-house`。更新后推送到 `main`，GitHub Pages 会从仓库根目录自动构建。公开地址不变。上线版本已在桌面 Edge 的手机视口模拟中通过完整流程；真实手机仍建议实际访问检查键盘与交互。详细设置见 `docs/DEPLOY_GITHUB_PAGES.md`。
 
 暗号是前端互动效果，不提供隐私保护。
